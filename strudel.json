@@ -1,4 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/Wynnies/Strudel-Samples/main/",
-  "horn": ["horn/As2.wav", "horn/B2.wav", "horn/C3.wav"]
+  "horn": {
+    "A#2": "horn/As2.wav",
+    "B2": "horn/B2.wav",
+    "C3": "horn/C3.wav"
+  }
 }
